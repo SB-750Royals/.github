@@ -59,7 +59,7 @@
 
 
 ## Members 2022 - 2023:
-![img.png](img.png)
+![img.png](https://github.com/SB-750Royals/.github/blob/main/profile/img.png)
 
 
 | **Member**            | **Role**                  |
