@@ -1,5 +1,5 @@
 # 750Royals
-![asdfasdf](https://github.com/SB-750Royals/.github/assets/80279349/8e1b3e9a-7e1a-4190-a4cf-b7c6d590e474)
+![Logo](https://github.com/SB-750Royals/.github/assets/80279349/8e1b3e9a-7e1a-4190-a4cf-b7c6d590e474)
 
 ## About our team:
 
@@ -11,6 +11,12 @@
 ## Awards and Achievements:
 
 #### 2023-2024 (Over Under)
+|                   |    |
+|-------------------|----|
+|                   |    |
+|                   |    |
+|                   |    |
+|                   |    |
 
 
 #### 2022-2023 (Spin Up)
@@ -51,6 +57,25 @@
 | Arjun Gilhotra        | Recruit                   |
 | Anushree Chidambaram  | Recruit                   |
 
+
+## Members 2022 - 2023:
+![img.png](img.png)
+
+| **Member**            | **Role**                  |
+|-----------------------|---------------------------|
+| Esha Vigneshwaran     | President                 |
+| Vignesh Saravanakumar | Captain                   |
+| Anika Thakur          | Vice Captain & Lead build |
+| Tejas Raghuram        | Lead Programmer           |
+| Abhaya Avalur         | Lead Notebook             |
+| Rakshna Ravishankar   | Lead Notebook             |
+| Vivek Banker          | Head CAD                  |
+| Vihaan Pardeshi       | Programmer                |
+| Yegna Bodepudi        | Builder                   |
+| Nicholas Keller       | Recruit                   |
+| Haripranav Yandrapu   | Recruit                   |
+| Arjun Gilhotra        | Recruit                   |
+| Anushree Chidambaram  | Recruit                   |
 
 ## Contact Us!
 
