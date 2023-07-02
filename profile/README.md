@@ -39,7 +39,7 @@
 |                                                                                                                                                  |                                                                                                                                              | <img src="https://pros.cs.purdue.edu/_static/img/pros-tux.png" alt="Pros Tux" width="50" height="50">                                         |                                                                                                                                                    |                                                                                                                                                    |
 
 ## Members 2023 - 2024:
-![img.png](img.png)
+**include team picture eventually**
 
 | **Member**            | **Role**                  |
 |-----------------------|---------------------------|
@@ -61,21 +61,23 @@
 ## Members 2022 - 2023:
 ![img.png](img.png)
 
+
 | **Member**            | **Role**                  |
 |-----------------------|---------------------------|
-| Esha Vigneshwaran     | President                 |
-| Vignesh Saravanakumar | Captain                   |
-| Anika Thakur          | Vice Captain & Lead build |
-| Tejas Raghuram        | Lead Programmer           |
-| Abhaya Avalur         | Lead Notebook             |
-| Rakshna Ravishankar   | Lead Notebook             |
-| Vivek Banker          | Head CAD                  |
-| Vihaan Pardeshi       | Programmer                |
-| Yegna Bodepudi        | Builder                   |
-| Nicholas Keller       | Recruit                   |
-| Haripranav Yandrapu   | Recruit                   |
-| Arjun Gilhotra        | Recruit                   |
-| Anushree Chidambaram  | Recruit                   |
+|                       |                           |
+|                       |                           |
+|                       |                           |
+|                       |                           |
+|                       |                           |
+|                       |                           |
+|                       |                           |
+|                       |                           |
+|                       |                           |
+|                       |                           |
+|                       |                           |
+|                       |                           |
+|                       |                           |
+
 
 ## Contact Us!
 
