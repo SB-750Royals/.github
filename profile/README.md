@@ -1,4 +1,5 @@
 # 750Royals
+![asdfasdf](https://github.com/SB-750Royals/.github/assets/80279349/8e1b3e9a-7e1a-4190-a4cf-b7c6d590e474)
 
 ## About our team:
 
@@ -9,50 +10,53 @@
 
 ## Awards and Achievements:
 
-2022-2023 (Spin Up):
-1x Judges Award
-1x Tournament Champs
-1x Excellence
-1x Design Award
+#### 2023-2024 (Over Under)
+
+
+#### 2022-2023 (Spin Up)
+|                   |    |
+|-------------------|----|
+| Judges Award      | 1x |
+| Tournament Champs | 1x |
+| Excellence        | 1x |
+| Design Award      | 1x |
+
+
+
 
 
 ## Languages & Technologies  We Use:
 
-|   |   |
-|---|---|
-| ![React](https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/React-Dark.svg) | ![HTML](https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/HTML.svg) |
-| ![Discord](https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/Discord.svg) | ![AutoCAD](https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/AutoCAD-Dark.svg) |
-| ![VSCode](https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/VSCode-Dark.svg) | ![Python](https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/Python-Dark.svg) |
-| ![Idea](https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/Idea-Dark.svg) | ![CSS](https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/CSS.svg) |
-| ![CPP](https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/CPP.svg) | ![Blender](https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/Blender-Dark.svg) |
+| <img src="https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/React-Dark.svg" alt="React" width="50" height="50">   | <img src="https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/HTML.svg" alt="HTML" width="50" height="50">      | <img src="https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/Discord.svg" alt="Discord" width="50" height="50"> | <img src="https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/AutoCAD-Dark.svg" alt="AutoCAD" width="50" height="50"> | <img src="https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/VSCode-Dark.svg" alt="VSCode" width="50" height="50">   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="50" height="50"> | <img src="https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/Idea-Dark.svg" alt="Idea" width="50" height="50"> | <img src="https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/CSS.svg" alt="CSS" width="50" height="50">         | <img src="https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/CPP.svg" alt="CPP" width="50" height="50">              | <img src="https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/Blender-Dark.svg" alt="Blender" width="50" height="50"> |
+|                                                                                                                                                  |                                                                                                                                              | <img src="https://pros.cs.purdue.edu/_static/img/pros-tux.png" alt="Pros Tux" width="50" height="50">                                         |                                                                                                                                                    |                                                                                                                                                    |
 
+## Members 2023 - 2024:
+![img.png](img.png)
 
+| **Member**            | **Role**                  |
+|-----------------------|---------------------------|
+| Esha Vigneshwaran     | President                 |
+| Vignesh Saravanakumar | Captain                   |
+| Anika Thakur          | Vice Captain & Lead build |
+| Tejas Raghuram        | Lead Programmer           |
+| Abhaya Avalur         | Lead Notebook             |
+| Rakshna Ravishankar   | Lead Notebook             |
+| Vivek Banker          | Head CAD                  |
+| Vihaan Pardeshi       | Programmer                |
+| Yegna Bodepudi        | Builder                   |
+| Nicholas Keller       | Recruit                   |
+| Haripranav Yandrapu   | Recruit                   |
+| Arjun Gilhotra        | Recruit                   |
+| Anushree Chidambaram  | Recruit                   |
 
-Members:
- 
-Esha Vigneshwaran - President  
-Vignesh Saravanakumar - Captain  
-Anika Thakur - Vice Captain & Lead build  
-Tejas Raghuram - Lead Programmer  
-Abhaya Avalur - Lead Notebook  
-Rakshna Ravishankar - Lead Notebook  
-Vivek Banker - Head CAD   
-Vihaan Pardeshi - Programmer  
-Yegna Bodepudi - Builder  
-Nicholas Keller- Recruit  
-Haripranav Yandrapu - Recruit  
-Arjun Gilhotra - Recruit  
-Anushree Chidambaram - Recruit  
 
 ## Contact Us!
 
-Email: 750Royals@gmail.com
-
-Tiktok: @750royals
-
-Instagram: @sbhs_750r
-
-![asdfasdf](https://github.com/SB-750Royals/.github/assets/80279349/8e1b3e9a-7e1a-4190-a4cf-b7c6d590e474)
+Email: 750Royals@gmail.com  
+Tiktok: @750royals  
+Instagram: @sbhs_750r  
 
 
   
