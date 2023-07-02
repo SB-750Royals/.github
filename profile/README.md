@@ -83,9 +83,10 @@
 
 ## Contact Us!
 
-Email: 750Royals@gmail.com  
-Tiktok: @750royals  
-Instagram: @sbhs_750r  
+**Email**: 750Royals@gmail.com  
+**Tiktok**: @750royals  
+**Instagram**: @sbhs_750r  
+**Website**: https://sb-750royals.github.io/
 
 
   
