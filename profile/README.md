@@ -59,9 +59,10 @@
 
 
 ## Members 2022 - 2023:
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/SB-750Royals/.github/blob/main/profile/img.png" alt="img.png" style="width: 75%;">
+<div align="center">
+  <img src="https://github.com/SB-750Royals/.github/blob/main/profile/img.png" alt="img.png" width="75%">
 </div>
+
 
 
 | **Member**            | **Role**                  |
