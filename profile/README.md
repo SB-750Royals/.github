@@ -80,22 +80,21 @@
 
 
 
-| **Member**            | **Role**                  |
-|-----------------------|---------------------------|
-| Adithiya G Karthik    | Captain                   |
-| Mohith Shah           | Lead CAD                  |
-| Dilan Patel           | Lead Programmer           |
-| Esha Vigneshwaran     | Vice Captain              |
-| Vignesh Saravanakumar | Recruit                   |
-| Tejas Raghuram        | Programmer                |
-| Abhaya Avalur         | Lead Notebook             |
-| Anika Thakur          | Lead Builder              |
-| Mayank Deoras         | Programmer                |
-| Rakshna Ravishankar   | Lead Notebook             |
-| Vivek Banker          | Recruit                   |
-| Vihaan Pardeshi       | Recruit                   |
-| Yegna Bodepudi        | Recruit                   |
-
+| **Member**            | **Role**                    |
+|-----------------------|-----------------------------|
+| Adithiya G Karthik    | Captain                     |
+| Mohith Shah           | Lead CAD                    |
+| Dilan Patel           | Lead Programmer             |
+| Esha Vigneshwaran     | Vice Captain & Lead Builder |
+| Vignesh Saravanakumar | Recruit                     |
+| Tejas Raghuram        | Programmer                  |
+| Abhaya Avalur         | Lead Notebook               |
+| Anika Thakur          | Recruit                     |
+| Mayank Deoras         | Programmer                  |
+| Rakshna Ravishankar   | Lead Notebook               |
+| Vivek Banker          | Recruit                     |
+| Vihaan Pardeshi       | Recruit                     |
+| Yegna Bodepudi        | Recruit                     | 
 
 
 ## Contact Us!
