@@ -28,11 +28,6 @@
 | Design Award      | 1x |
 
 
-#### 2021-2022 (Tipping Point)
-|                   |    |
-|-------------------|----|
-
-
 #### 2019-2020 (Tower Takeover)
 |                   |    |
 |-------------------|----|
@@ -45,6 +40,24 @@
 | Build Award          | 2x |
 | Tournament Finalists | 1x |
 
+
+#### 2016-2017 (Starstruck)
+|                      |    |
+|----------------------|----|
+| Design Award         | 1x |
+
+
+#### 2015-2016 (Nothing But Net)
+|                      |    |
+|----------------------|----|
+| Tournament Finalists | 1x |
+
+
+#### 2013-2014 (Toss Up)
+|                      |    |
+|----------------------|----|
+| Design Award         | 1x |
+| Judges Award         | 1x |
 
 ## Languages & Technologies  We Use:
 
