@@ -28,7 +28,22 @@
 | Design Award      | 1x |
 
 
+#### 2021-2022 (Tipping Point)
+|                   |    |
+|-------------------|----|
 
+
+#### 2019-2020 (Tower Takeover)
+|                   |    |
+|-------------------|----|
+| Create Award      | 1x |
+
+
+#### 2018-2019 (Turning Point)
+|                      |    |
+|----------------------|----|
+| Build Award          | 2x |
+| Tournament Finalists | 1x |
 
 
 ## Languages & Technologies  We Use:
@@ -67,19 +82,20 @@
 
 | **Member**            | **Role**                  |
 |-----------------------|---------------------------|
-|                       |                           |
-|                       |                           |
-|                       |                           |
-|                       |                           |
-|                       |                           |
-|                       |                           |
-|                       |                           |
-|                       |                           |
-|                       |                           |
-|                       |                           |
-|                       |                           |
-|                       |                           |
-|                       |                           |
+| Adithiya G Karthik    | Captain                   |
+| Mohith Shah           | Lead CAD                  |
+| Dilan Patel           | Lead Programmer           |
+| Esha Vigneshwaran     | Vice Captain              |
+| Vignesh Saravanakumar | Recruit                   |
+| Tejas Raghuram        | Programmer                |
+| Abhaya Avalur         | Lead Notebook             |
+| Anika Thakur          | Lead Builder              |
+| Mayank Deoras         | Programmer                |
+| Rakshna Ravishankar   | Lead Notebook             |
+| Vivek Banker          | Recruit                   |
+| Vihaan Pardeshi       | Recruit                   |
+| Yegna Bodepudi        | Recruit                   |
+
 
 
 ## Contact Us!
