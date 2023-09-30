@@ -4,7 +4,7 @@
 ## About our team:
 
 <div align="justify">
-750R is a part of the South Brunswick High School robotics program. For our first year as a team, we exceeded all expectations and qualified for the 2019 VEX Robotics World Championships! As a team, we believe that communication and organization are both extremely crucial items for success and will try our best to improve on both as we progress through this season. We also believe in bettering our skills in all areas of robotics, such as Building, Programming, CADing, and Notebook, and will continue to do so. We strive for excellence in all that we do and hope to see large success this season, as our organization and communication skills are at some of the highest levels they have ever been at. We have grown a lot as a team and have connections with each other, making the team environment extremely friendly and welcoming.
+750R is a part of the South Brunswick High School robotics program. For our first year as a team, we exceeded all expectations and qualified for the 2019 VEX Robotics World Championships! As a team, we believe that communication and organization are both extremely crucial items for success, and we will try our best to improve on both as we progress through this season. We also believe in bettering our skills in all areas of robotics, such as Building, Programming, CADing, and Notebook, and will continue to do so. We strive for excellence in all that we do and hope to see large success this season, as our organization and communication skills are at some of the highest levels they have ever been at. We have grown a lot as a team and have connections with each other, making the team environment extremely friendly and welcoming.
 </div>
 
 
@@ -76,11 +76,11 @@
 | Anika Thakur          | Vice Captain & Lead build |
 | Tejas Raghuram        | Lead Programmer           |
 | Abhaya Avalur         | Lead Notebook             |
-| Rakshna Ravishankar   | Lead Notebook             |
+| Nicholas Keller       | Lead Notebook             |
+| Rakshna Ravishankar   | Builder                   |
 | Vivek Banker          | Head CAD                  |
 | Vihaan Pardeshi       | Programmer                |
 | Yegna Bodepudi        | Builder                   |
-| Nicholas Keller       | Recruit                   |
 | Haripranav Yandrapu   | Recruit                   |
 | Arjun Gilhotra        | Recruit                   |
 | Anushree Chidambaram  | Recruit                   |
