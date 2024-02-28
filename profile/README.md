@@ -13,8 +13,8 @@
 #### 2023-2024 (Over Under)
 |                   |    |
 |-------------------|----|
-| Design Award      | 1x |
-|                   |    |
+| Design Award      | 2x |
+| Innovate Award    | 1x |
 |                   |    |
 |                   |    |
 
