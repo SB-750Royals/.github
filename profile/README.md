@@ -10,6 +10,11 @@
 
 ## Awards and Achievements:
 
+#### 2024-2025 (High Stakes)
+|                   |    |
+|-------------------|----|
+|                   |    |
+
 #### 2023-2024 (Over Under)
 |                   |    |
 |-------------------|----|
@@ -65,6 +70,23 @@
 |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 | <img src="https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="50" height="50"> | <img src="https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/Idea-Dark.svg" alt="Idea" width="50" height="50"> | <img src="https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/CSS.svg" alt="CSS" width="50" height="50">         | <img src="https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/CPP.svg" alt="CPP" width="50" height="50">              | <img src="https://raw.githubusercontent.com/vigneshsaravanakumar404/skill-icons/main/icons/Blender-Dark.svg" alt="Blender" width="50" height="50"> |
 |                                                                                                                                                  |                                                                                                                                              | <img src="https://pros.cs.purdue.edu/_static/img/pros-tux.png" alt="Pros Tux" width="50" height="50">                                         |                                                                                                                                                    |                                                                                                                                                    |
+
+## Members 2023 - 2024:
+**include team picture eventually**
+
+| **Member**            | **Role**                  |
+|-----------------------|---------------------------|
+| Anika Thakur          | President                 |
+| Rakshna Ravishankar   | Captain                   |
+| Arjun Gilhotra        | Vice Captain & Lead build |
+| Vihaan Pardeshi       | Lead Programmer           |
+| Yegna Bodepudi        | Lead Notebook             |
+| Haripranav Yandrapu   | Programmer                |
+| Anushree Chidambaram  | Builder                   |
+| Nicholas Keller       | Notebook                  |
+| Shrish Karthikeyan    | Recruit                   |
+| Aarya Dalvi           | Recruit                   |
+
 
 ## Members 2023 - 2024:
 **include team picture eventually**
