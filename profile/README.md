@@ -76,11 +76,11 @@
 
 | **Member**            | **Role**                  |
 |-----------------------|---------------------------|
-| Anika Thakur          | President                 |
-| Rakshna Ravishankar   | Captain                   |
+| Anika Snizzler Thakur | President                 |
+| Rakshna Ravishankar   | Notebook                  |
 | Arjun Gilhotra        | Vice Captain & Lead build |
 | Vihaan Pardeshi       | Lead Programmer           |
-| Yegna Bodepudi        | Lead Notebook             |
+| Yegna Bodepudi        | Notebook                  |
 | Haripranav Yandrapu   | Programmer                |
 | Anushree Chidambaram  | Builder                   |
 | Nicholas Keller       | Notebook                  |
@@ -98,11 +98,11 @@
 | Anika Thakur          | Vice Captain & Lead build |
 | Tejas Raghuram        | Lead Programmer           |
 | Abhaya Avalur         | Lead Notebook             |
-| Nicholas Keller       | Lead Notebook             |
+| Nicholas Keller       | Notebook                  |
 | Rakshna Ravishankar   | Builder                   |
-| Vivek Banker          | Head CAD                  |
+| Vivek Banker          | CAD                       |
 | Vihaan Pardeshi       | Programmer                |
-| Yegna Bodepudi        | Builder                   |
+| Yegna Bodepudi        | Notebook                  |
 | Haripranav Yandrapu   | Recruit                   |
 | Arjun Gilhotra        | Recruit                   |
 | Anushree Chidambaram  | Recruit                   |
