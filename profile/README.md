@@ -81,7 +81,7 @@
 | Arjun Gilhotra        | Vice Captain & Lead build |
 | Vihaan Pardeshi       | Lead Programmer           |
 | Yegna Bodepudi        | Vice Captain & Lead Notebook   |
-| Haripranav Yandrapu   | Programmer                |
+| Haripranav Yandrapu   | Lead CAD & Programmer     |
 | Anushree Chidambaram  | Builder                   |
 | Nicholas Keller       | Lead Notebook             |
 | Shrish Karthikeyan    | Recruit                   |
