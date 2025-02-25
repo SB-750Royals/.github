@@ -83,7 +83,7 @@
 | Yegna Bodepudi        | Vice Captain & Lead Notebook   |
 | Haripranav Yandrapu   | Programmer                |
 | Anushree Chidambaram  | Builder                   |
-| Nicholas Keller       | Notebook                  |
+| Nicholas Keller       | Lead Notebook             |
 | Shrish Karthikeyan    | Recruit                   |
 | Aarya Dalvi           | Recruit                   |
 
