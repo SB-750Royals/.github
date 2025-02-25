@@ -76,11 +76,11 @@
 
 | **Member**            | **Role**                  |
 |-----------------------|---------------------------|
-| Anika Snizzler Thakur | President                 |
-| Rakshna Ravishankar   | Notebook                  |
+| Anika Thakur          | President                 |
+| Rakshna Ravishankar   | Captain                   |
 | Arjun Gilhotra        | Vice Captain & Lead build |
 | Vihaan Pardeshi       | Lead Programmer           |
-| Yegna Bodepudi        | Vice Captain & Notebook   |
+| Yegna Bodepudi        | Vice Captain & Lead Notebook   |
 | Haripranav Yandrapu   | Programmer                |
 | Anushree Chidambaram  | Builder                   |
 | Nicholas Keller       | Notebook                  |
