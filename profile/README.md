@@ -80,7 +80,7 @@
 | Rakshna Ravishankar   | Notebook                  |
 | Arjun Gilhotra        | Vice Captain & Lead build |
 | Vihaan Pardeshi       | Lead Programmer           |
-| Yegna Bodepudi        | Notebook                  |
+| Yegna Bodepudi        | Vice Captain & Notebook   |
 | Haripranav Yandrapu   | Programmer                |
 | Anushree Chidambaram  | Builder                   |
 | Nicholas Keller       | Notebook                  |
