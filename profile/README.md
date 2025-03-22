@@ -78,7 +78,7 @@
 |-----------------------|---------------------------|
 | Anika Thakur          | President                 |
 | Rakshna Ravishankar   | Captain                   |
-| Arjun Gilhotra        | Vice Captain & Lead build |
+| Arjun Gilhotra        | Lead build |
 | Vihaan Pardeshi       | Lead Programmer           |
 | Yegna Bodepudi        | Vice Captain & Lead Notebook   |
 | Haripranav Yandrapu   | Lead CAD & Programmer     |
@@ -102,7 +102,7 @@
 | Rakshna Ravishankar   | Builder                   |
 | Vivek Banker          | CAD                       |
 | Vihaan Pardeshi       | Programmer                |
-| Yegna Bodepudi        | Notebook                  |
+| Yegna Bodepudi        | Builder                   |
 | Haripranav Yandrapu   | Recruit                   |
 | Arjun Gilhotra        | Recruit                   |
 | Anushree Chidambaram  | Recruit                   |
